@@ -1,0 +1,26 @@
+[
+    {
+    "_id": 1,
+    "author": "Albert Einstein",
+    "quote": "Everything should be as simple as it can be, but not simpler!",
+    "source": null
+    },
+    {
+    "_id": 2,
+    "author": "Albert Einstein",
+    "quote": "Logic will get you from A to Z; imagination will get you everywhere.",
+    "source": null
+    },
+    {
+    "_id": 3,
+    "author": "Albert Einstein",
+    "quote": "Try not to become a man of success. Rather become a man of value.",
+    "source": null
+    },
+    {
+    "_id": 4,
+    "author": "Albert Einstein",
+    "quote": "It is not that I'm so smart. But I stay with the questions much longer.",
+    "source": null
+    }
+]
